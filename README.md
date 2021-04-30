@@ -12,9 +12,10 @@ A seller can come to our website and after registering, he/she can list their pr
 A buyer can come to our website and after registering, he/she can search for a property by going to Find a Property or the panel displayed on the front page, which takes the input of the necessary information to display a property on the website.
 
 Front End Technologies: 
-	HTML
-	CSS
-	Bootstrap4 
+	HTML
+	CSS
+	Bootstrap4 
+
 Back-End Technologies: 
-	PHP 
-	Sql Yog
+	PHP 
+	Sql Yog
